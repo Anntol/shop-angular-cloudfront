@@ -29,3 +29,7 @@ Follow the steps:
 - git clone
 - npm i
 - ng serve
+
+## AWS Deployment
+
+Manual S3 bucket: http://anntol-nodeaws2021q3-bucket.s3-website-eu-west-1.amazonaws.com/
