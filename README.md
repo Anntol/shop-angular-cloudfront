@@ -29,3 +29,8 @@ Follow the steps:
 - git clone
 - npm i
 - ng serve
+
+## AWS Deployment
+
+- Manual S3 bucket: https://anntol-aws22q2-manual.s3.eu-west-1.amazonaws.com/
+- Manual CloudFront URL: https://d2vqpv8bl2jhks.cloudfront.net
